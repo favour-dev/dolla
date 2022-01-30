@@ -13,7 +13,7 @@ import {
     ServicesP
 } from './ServicesElement'
 
-const Service = () => {
+const Services = () => {
     return (
         <ServicesContainer>
             <ServicesH1>Our Services</ServicesH1>
@@ -38,4 +38,4 @@ const Service = () => {
     )
 }
 
-export default Service
+export default Services
